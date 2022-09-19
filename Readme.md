@@ -1,5 +1,5 @@
 # Introduction
-This is a HID based USB device that capture DTMF Caller IDs from land line and send it to CIDL-Manager sofware over USB. There is no driver neaded for divce cause it works as HID divce and it should be reconized and works in most Oprating Systems. You can find CIDL-Manager sofware project here:
+This is a HID based USB device that capture DTMF Caller IDs from land line and send it to CIDL-Manager software over USB. There is no driver needed for device cause it works as HID device and it should be recognized and works in most Operating Systems. You can find CIDL-Manager sofware project here:
 
 https://github.com/kingofnull/CIDL-Manager
 

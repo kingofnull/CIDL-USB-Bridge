@@ -6,7 +6,7 @@ https://github.com/kingofnull/CIDL-Manager
 # Circuit Diagram
 Circuit diagram is designed in KiCad and schematic file is in the Circuit Diagram folder.
 
-![Circuit Diagram](Circuit Diagram/EDTMF-USB-Circuit.png) 
+![Circuit Diagram](images/schematic.jpg) 
 
 ## Which MCUs Supported?
 
